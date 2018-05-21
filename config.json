@@ -4,14 +4,14 @@
         "title": ""
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "septinite",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
+        "app_id": "62ATGLBVHG",
+        "api_key_search_only": "b50b6b56b553502d71011c161cc80be9",
         "index_name": "YOUR_INDEX_NAME"
     }
 }
